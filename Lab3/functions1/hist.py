@@ -3,3 +3,4 @@ def histogram(my_list):
         for j in range(i):
             print("*", end = "")
         print()
+histogram([1,2,3])
